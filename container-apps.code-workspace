@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "hello-k8s-node"
+		},
+		{
+			"path": "hello-world"
+		},
+		{
+			"path": "hello-azure-queue"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu",
+	"settings": {}
+}
